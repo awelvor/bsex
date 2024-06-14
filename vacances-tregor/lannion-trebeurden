@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="container">
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  </head>
+  <body>
+
+<div class="container">
+
+
+<ul>
+ 	<li><strong>Pleumeur-Bodou :</strong>
+<ul>
+ 	<li>chapelle de Saint Uzec : tous les jours de 9h à 19h</li>
+ 	<li>chapelle de Saint Samson : du lundi au samedi (sauf dim et jours feriés) de 14h à 18h</li>
+ 	<li>église de Pleumeur-Bodou : tous les jours 10h à 18h</li>
+</ul>
+</li>
+ 	<li><strong>Trebeurden :</strong>
+<ul>
+ 	<li>chapelle de Christ  : tous les samedis de 14h30 à 16h30 à partir du 8 juillet</li>
+ 	<li>chapelle de Penvern : chaque samedi de 14h à 18h  visites commentées</li>
+ 	<li>chapelle de Bonne Nouvelle : visite guidée : 13 et 27 juillet et 10 et 24 août. RDV devant l'office de tourisme à 9h.</li>
+ 	<li>Eglise de Trebeurden : tous les jours, 9h à 18h30</li>
+</ul>
+</li>
+ 	<li><strong>Lannion :</strong>
+<ul>
+ 	<li>Visites guidées de la SPREV Brélévenez et St Jean du Baly.</li>
+ 	<li>Eglises St Jean du Baly et Brélévenez ouvertes tous les jours.</li>
+</ul>
+</li>
+ 	<li><strong>Ploubezre :</strong>
+<ul>
+ 	<li>Chapelle de Kerfons : tous les jours de 10h à 13h et 15h à 19h</li>
+</ul>
+</li>
+ 	<li><strong>Perros-Guirec</strong>
+<ul>
+ 	<li>Eglise Saint Jacques : le mercredi, du 12 juillet au 23 août à 15h. Durée 1h30.</li>
+ 	<li>Chapelle Saint Guirec à Ploumanac’h : le jeudi à 16h du 6 juillet au 7 septembre.</li>
+</ul>
+</li>
+ 	<li><strong>Tréguier</strong>
+<ul>
+ 	<li>Cathédrale de Tréguier:à partir du 14 juillet de 10h à 12h et de 15h à 18h</li>
+ 	<li>Port-Blanc: chapelle Notre-Dame, à partir du 14 juillet de 10h à 12h et de 15h à 18h</li>
+ 	<li>Plougresant: chapelle de Saint Gonéry, à partir du 14 juillet de 10h à 12h et de 15h à 18h</li>
+ 	<li>Lézardrieux: chapelle de Kermouster, du mardi au dimanche de 14h à 18h</li>
+</ul>
+</li>
+ 	<li><strong>Plouaret</strong>
+<ul>
+ 	<li>Eglise Notre-Dame de bonne nouvelle : le mardi matin de 10h à 12h. Contact : 02 96 38 33 84</li>
+</ul>
+</li>
+ 	<li><strong>Saint Michel en grèves</strong>
+<ul>
+ 	<li>Eglise ouverte tous les jours en Juillet et Août avec visites régulières de l'orgue.</li>
+</ul>
+</li>
+ 	<li><strong>Ploumilliau</strong>
+<ul>
+ 	<li>Du lundi au samedi : de 10h à 12h30 et de 14h30 à 18h30.</li>
+</ul>
+</li>
+ 	<li><strong>Tredrez-Locquémeau</strong>
+<ul>
+ 	<li>ouverture l’été, avec présence de jeunes formés à la visite</li>
+</ul>
+</li>
+ 	<li><strong>Plestin les grèves</strong>
+<ul>
+ 	<li>tous les matins de juillet et août. Présence régulière d’un organiste</li>
+</ul>
+</li>
+ 	<li>Nombreuses églises et chapelles ouvertes, dans le cadre du <a href="https://www.circuitdeschapelles.fr/">circuit des chapelles</a></li>
+</ul>
+
+<ul>
+ 	<li><strong>La Bonne Nouvelle Lannion/Pleumeur-Bodou </strong>
+<ul>
+ 	<li><del>Chapelle St-Dogmaël, Rospez : 2 juillet (9h30)</del></li>
+ 	<li><del>Chapelle Saint Uzec, Pleumeur-Bodou : 2 juillet (10h30)</del></li>
+ 	<li><del>Eglise de Ploulec'h : 9 juillet à 10h30</del></li>
+ 	<li><del>Eglise de Buhulien : 16 juillet à 10h30</del></li>
+ 	<li><del>Chapelle Saint Samson, Pleumeur-Bodou : 30 juillet (9h30)</del></li>
+ 	<li><del>Chapelle Saint Thurien (Beg Léguer) : 30 juillet (10h30)</del></li>
+ 	<li><del>Chapelle Saint Nicodème (Servel) : 13 août (10h30)</del></li>
+ 	<li><del>Eglise ND de Caouënnec : 15 août (10h30)</del></li>
+ 	<li><del>Chapelle ND du Yaudet : 15 août (10h30)</del></li>
+ 	<li><del>Eglise de Rospez : 3 septembre (10h30)</del></li>
+</ul>
+</li>
+</ul>
+
+<strong>Trébeurden</strong> (messes en plein air)
+<p style="padding-left: 40px;"><del>- Fête de la mer au port : le 6 août (11h) <span style="color: #ff0000;"><b><i>La messe au port est annulée à cause des intempéries. Elle aura lieu à l'Eglise.</i></b></span></del></p>
+<p style="padding-left: 40px;"><del><span style="background-color: transparent; color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif; font-weight: var( --e-global-typography-text-font-weight );">- Fête de la mer à l'Ile Grande au port St Sauveur : le 13 août (11h)</span></del></p>
+<p style="padding-left: 40px;"><del>- Pardon de Notre Dame de Bonne Nouvelle le 20 août (11h)</del></p>
+
+
+<ul>
+ 	<li><del><strong>Plouaret :</strong> Pardon Notre Dame de Bonne Nouvelle : le dimanche 9 juillet, à 10h30</del></li>
+ 	<li><del><strong>Vieux marché :</strong> <a href="https://lannion-pleumeur.catholique.fr/pardon-des-7-saints/">Pardon des 7 Saints </a>: les 22 et 23 juillet</del></li>
+ 	<li><del><strong>Plestin-les-Grèves :</strong> Pardon de la chapelle Sainte Barbe au port de Toul an Héry, le dimanche 20 août à 10h30, avec bénédiction de la mer.</del></li>
+</ul>
+
+
+<ul>
+ 	<li><strong>Perros-Guirec</strong>
+<ul>
+ 	<li><del>Chapelle Saint-Samson Trévou-Treguiniec: le 9 juillet (10h30)</del></li>
+ 	<li><del>Eglise Saint Quay Perros: le le 16 juillet</del></li>
+ 	<li><del>Eglise Saint-Jacques: Perros-Guirec le 23 juillet</del></li>
+ 	<li><del>Chapelle Sainte Anne Trélevern: le 24 juillet (2Oh00)</del></li>
+ 	<li><del>Chapelle Sainte Anne Trégaste: le 30 juillet</del></li>
+ 	<li><del>Eglise Saint Laurent: Trégastel le 6 août</del></li>
+ 	<li><del>Pardon de Notre Dame de la Clarté le 15 août sur tertre de La Clarté (10h30)</del></li>
+ 	<li><del>Eglise Notre-Dame de la joie: Kermaria-Sulard le 26 août</del></li>
+ 	<li><del>Chapelle Saint Golgon: Trégastel le 27 août</del></li>
+</ul>
+</li>
+</ul>
+
+<ul>
+ 	<li><strong>Perros-Guirec</strong>
+<ul>
+ 	<li><del>Chapelle Saint-Samson Trévou-Treguiniec: le 9 juillet (10h30)</del></li>
+ 	<li><del>Eglise Saint Quay Perros: le le 16 juillet</del></li>
+ 	<li><del>Eglise Saint-Jacques: Perros-Guirec le 23 juillet</del></li>
+ 	<li><del>Chapelle Sainte Anne Trélevern: le 24 juillet (2Oh00)</del></li>
+ 	<li><del>Chapelle Sainte Anne Trégaste: le 30 juillet</del></li>
+ 	<li><del>Eglise Saint Laurent: Trégastel le 6 août</del></li>
+ 	<li><del>Pardon de Notre Dame de la Clarté le 15 août sur tertre de La Clarté (10h30)</del></li>
+ 	<li><del>Eglise Notre-Dame de la joie: Kermaria-Sulard le 26 août</del></li>
+ 	<li><del>Chapelle Saint Golgon: Trégastel le 27 août</del></li>
+</ul>
+</li>
+</ul>
+
+<ul>
+ 	<li><strong>Tréguier</strong>
+<ul>
+ 	<li><del>6 juillet pardon de Sainte Eliboubane sur l'ile de Loaven à 14h45</del></li>
+ 	<li><del>26 juillet pardon de Sainte Anne à Prat</del></li>
+ 	<li><del>15 août à Port Blanc et à Goz Iliz</del></li>
+ 	<li><del>27août pardon de St Maudez à Kermouster</del></li>
+</ul>
+</li>
+</ul>
+</div>
+</body>
+</html>
+
+
+</div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
+</html>
